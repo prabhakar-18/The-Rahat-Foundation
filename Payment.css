@@ -1,0 +1,86 @@
+body{
+  background-image: url('https://static2.bigstockphoto.com/9/1/9/large1500/91906631.jpg');
+  /* background-repeat: no-repeat; */
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 85px;
+  background-color:rgb(33, 230, 164);
+  width: 400px;
+  margin-top: 100px;
+  height: 250px;
+  border-radius: 24px;
+
+}
+.container h3{
+  margin-top: 20px;
+}
+
+.testing{
+  text-decoration: none;
+  text-align: center;
+  font-weight: bold;
+  color: black;
+  margin-top: 13px;
+
+}
+
+
+.mobile{
+margin-left: -1cm;
+}
+
+.footer-mid{
+ margin-top:2cm;
+ margin-left:-0.5cm;
+ position: relative;
+}
+
+
+.form-group{
+padding: 5px;
+
+width: 80%;
+}
+
+.link-color{
+color:white;
+}
+
+/* footer */
+
+#footer{
+  text-align: center;
+  padding: 3% 7%;
+  background-color: #0ad6d6fd;
+  color:black;
+  }
+.footer-icon{
+  margin: 2% ;
+}
+
+
+
+.donation-img{ 
+  display: flex;  
+  justify-content: center;
+}
+.img-do{
+  height: 250px;
+  width: 300px;
+  margin-top: 20px;
+  margin-left: 25px;
+  border: 5px solid black;
+  
+ 
+}
+
+.row-al{
+  text-align: center;
+}
+ul{
+  text-align: left;
+}
